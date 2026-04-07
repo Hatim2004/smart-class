@@ -1,0 +1,41 @@
+name: class_recorder
+description: AI-powered class recorder with speech-to-text and summarization
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Speech to Text
+  speech_to_text: ^6.6.0
+  
+  # HTTP for AI API calls
+  http: ^1.2.0
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # Audio recording
+  record: ^5.1.2
+  
+  # Permissions
+  permission_handler: ^11.3.0
+  
+  # UI
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  intl: ^0.18.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
