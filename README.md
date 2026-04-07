@@ -1,5 +1,5 @@
 <div align ="center">
-# Smart Class
+ <h1>Smart Class</h1>
 
   <img  width="92" height="92" alt="download" src="https://github.com/user-attachments/assets/3efd7347-681f-4791-92df-7be32a12ef12"/>
 </div>
